@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beautiful-cats/static/css/main.a7356d86.css",
+    "main.js": "/beautiful-cats/static/js/main.83767464.js",
+    "index.html": "/beautiful-cats/index.html",
+    "main.a7356d86.css.map": "/beautiful-cats/static/css/main.a7356d86.css.map",
+    "main.83767464.js.map": "/beautiful-cats/static/js/main.83767464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7356d86.css",
+    "static/js/main.83767464.js"
+  ]
+}
